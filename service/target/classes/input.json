@@ -1,0 +1,1720 @@
+{
+  "input": [
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "2",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "St. Luke's Health Care Center - Women's Clinic",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420234,
+          37.747567
+        ]
+      },
+      "location_address": "1580 VALENCIA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384183",
+      "services": "Womens Health",
+      "uid": "52"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "General Medical Clinic At Sfgh",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.406196,
+          37.75578
+        ]
+      },
+      "location_address": "1001 Potrero Ave",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "59"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "Mission Neighborhood Health Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.416353,
+          37.764728
+        ]
+      },
+      "location_address": "240 SHOTWELL STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306380891",
+      "services": "Cultural General Health",
+      "uid": "30"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "54",
+      ":@computed_region_fyvs_ahh9": "16",
+      ":@computed_region_p5aj_wyqh": "6",
+      ":@computed_region_rxqg_mtj9": "2",
+      ":@computed_region_yftq_j783": "11",
+      "facility_name": "Lifeways Pace At The Coronet",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.457668,
+          37.781234
+        ]
+      },
+      "location_address": "3575 GEARY BLVD",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384222",
+      "services": "General Health",
+      "uid": "27"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "309",
+      ":@computed_region_fyvs_ahh9": "39",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "9",
+      "facility_name": "North East Medical Services-leland Avenue",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.405249,
+          37.711827
+        ]
+      },
+      "location_address": "82 LELAND AVENUE",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384053",
+      "services": "Cultural General Health",
+      "uid": "38"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "56",
+      ":@computed_region_fyvs_ahh9": "35",
+      ":@computed_region_p5aj_wyqh": "8",
+      ":@computed_region_rxqg_mtj9": "3",
+      ":@computed_region_yftq_j783": "1",
+      "facility_name": "North East Medical Services - Noriega",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.4794,
+          37.754128
+        ]
+      },
+      "location_address": "1450 NORIEGA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384210",
+      "services": "Cultural General Health",
+      "uid": "36"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28857",
+      ":@computed_region_fyvs_ahh9": "6",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "5",
+      "facility_name": "First Resort",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.407783,
+          37.789348
+        ]
+      },
+      "location_address": "450 SUTTER ST., STE. 1740",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384194",
+      "services": "Womens Health",
+      "uid": "21"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29492",
+      ":@computed_region_fyvs_ahh9": "16",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "2",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "St. Mary's Medical Center, San Francisco",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.454407,
+          37.773804
+        ]
+      },
+      "location_address": "450 STANYAN STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380965",
+      "services": "Hospital",
+      "uid": "10"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29490",
+      ":@computed_region_fyvs_ahh9": "41",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Maxine Hall Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.435869,
+          37.781938
+        ]
+      },
+      "location_address": "1301 Pierce Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "60"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28853",
+      ":@computed_region_fyvs_ahh9": "34",
+      ":@computed_region_p5aj_wyqh": "2",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "St. James Infirmary",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.415577,
+          37.775618
+        ]
+      },
+      "location_address": "1372 MISSION ST.",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384174",
+      "services": "Sexual Health Clinic",
+      "uid": "49"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "63",
+      ":@computed_region_fyvs_ahh9": "7",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "5",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "On Lok 30th Street Community Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.425108,
+          37.742153
+        ]
+      },
+      "location_address": "225 30TH STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384044",
+      "services": "Senior Health",
+      "uid": "13"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "308",
+      ":@computed_region_fyvs_ahh9": "4",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "3",
+      "facility_name": "Chinatown Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.411772,
+          37.796931
+        ]
+      },
+      "location_address": "1490 Mason Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "57"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28853",
+      ":@computed_region_fyvs_ahh9": "34",
+      ":@computed_region_p5aj_wyqh": "2",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "Baart Market Clinic",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.412791,
+          37.780217
+        ]
+      },
+      "location_address": "1111 MARKET STREET, 1ST FLOOR",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384166",
+      "services": "Drug Treatment",
+      "uid": "15"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "San Francisco General Hospital",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.40772,
+          37.756064
+        ]
+      },
+      "location_address": "1001 POTRERO AVENUE",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380939",
+      "services": "Hospital",
+      "uid": "8"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Breast & Cervical Cancer Services",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419356,
+          37.775878
+        ]
+      },
+      "location_address": "30 Van Ness Avenue",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "68"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "63",
+      ":@computed_region_fyvs_ahh9": "40",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "4",
+      ":@computed_region_yftq_j783": "1",
+      "facility_name": "Laguna Honda Hospital And Rehabilitation Center",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.458718,
+          37.747626
+        ]
+      },
+      "location_address": "375 LAGUNA HONDA BOULEVARD",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380865",
+      "services": "Hospital",
+      "uid": "7"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28853",
+      ":@computed_region_fyvs_ahh9": "34",
+      ":@computed_region_p5aj_wyqh": "2",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "14",
+      "facility_name": "Ahf Healthcare Center - San Francisco",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.407791,
+          37.779187
+        ]
+      },
+      "location_address": "1025 HOWARD STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384180",
+      "services": "Sexual Health Clinic",
+      "uid": "14"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "56",
+      ":@computed_region_fyvs_ahh9": "12",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Ucsf Medical Center",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.458567,
+          37.763367
+        ]
+      },
+      "location_address": "505 PARNASSUS AVENUE",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106381154",
+      "services": "Hospital",
+      "uid": "11"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "10",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Curry Senior Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.414582,
+          37.782671
+        ]
+      },
+      "location_address": "333 TURK STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306382735",
+      "services": "Senior Health",
+      "uid": "19"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29490",
+      ":@computed_region_fyvs_ahh9": "27",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "13",
+      "facility_name": "California Pacific Med Ctr-pacific Campus",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.431038,
+          37.791424
+        ]
+      },
+      "location_address": "2333 BUCHANAN STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380929",
+      "services": "Hospital",
+      "uid": "3"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29492",
+      ":@computed_region_fyvs_ahh9": "9",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Cole Street Clinic",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.450374,
+          37.769992
+        ]
+      },
+      "location_address": "555 Cole Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "73"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Tom Waddell Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.418539,
+          37.777978
+        ]
+      },
+      "location_address": "50 Lech Walesa",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "70"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "54",
+      ":@computed_region_fyvs_ahh9": "31",
+      ":@computed_region_p5aj_wyqh": "6",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "11",
+      "facility_name": "California Pacific Med Ctr-california East",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.453549,
+          37.787402
+        ]
+      },
+      "location_address": "3698 SACRAMENTO STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380826",
+      "services": "Hospital",
+      "uid": "0"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28857",
+      ":@computed_region_fyvs_ahh9": "4",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "3",
+      "facility_name": "Chinese Hospital",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.409172,
+          37.795662
+        ]
+      },
+      "location_address": "845 JACKSON STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106382715",
+      "services": "Hospital",
+      "uid": "5"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29492",
+      ":@computed_region_fyvs_ahh9": "9",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Haight Ashbury Free Medical Clinic",
+      "facility_type": "Free Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.44858,
+          37.770192
+        ]
+      },
+      "location_address": "558 CLAYTON STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306380827",
+      "services": "Free General Health",
+      "uid": "23"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "10",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Baart Turk Street Clinic",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.416347,
+          37.782463
+        ]
+      },
+      "location_address": "433 TURK STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384192",
+      "services": "Drug Treatment",
+      "uid": "16"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "10",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "14",
+      "facility_name": "Housing And Urban Health Clinic",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.411542,
+          37.784138
+        ]
+      },
+      "location_address": "234 Eddy Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "69"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "308",
+      ":@computed_region_fyvs_ahh9": "23",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "3",
+      "facility_name": "North East Medical Services",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.409025,
+          37.799897
+        ]
+      },
+      "location_address": "1520 STOCKTON STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306382711",
+      "services": "Cultural General Health",
+      "uid": "35"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "2",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Lyon-martin Womens Health Services",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.422812,
+          37.772402
+        ]
+      },
+      "location_address": "1748 MARKET STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306382714",
+      "services": "Womens Health",
+      "uid": "28"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "Children's Health Center At Sfgh",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.406196,
+          37.75578
+        ]
+      },
+      "location_address": "1001 Potrero Ave",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "56"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28853",
+      ":@computed_region_fyvs_ahh9": "34",
+      ":@computed_region_p5aj_wyqh": "2",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "San Francisco City Clinic",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.407029,
+          37.776044
+        ]
+      },
+      "location_address": "356 7th Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "66"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "54",
+      ":@computed_region_fyvs_ahh9": "31",
+      ":@computed_region_p5aj_wyqh": "6",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "11",
+      "facility_name": "California Pacific Med Ctr-california West",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.455912,
+          37.786144
+        ]
+      },
+      "location_address": "3700 CALIFORNIA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380777",
+      "services": "Hospital",
+      "uid": "1"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "2",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "Planned Parenthood San Francisco Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420124,
+          37.746119
+        ]
+      },
+      "location_address": "1650 VALENCIA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384219",
+      "services": "Family General Health",
+      "uid": "44"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "10",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "St. Anthony Medical Clinic",
+      "facility_type": "Free Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.413172,
+          37.781977
+        ]
+      },
+      "location_address": "150 GOLDEN GATE AVE",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384201",
+      "services": "Free General Health",
+      "uid": "48"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "56",
+      ":@computed_region_fyvs_ahh9": "35",
+      ":@computed_region_p5aj_wyqh": "8",
+      ":@computed_region_rxqg_mtj9": "3",
+      ":@computed_region_yftq_j783": "1",
+      "facility_name": "Chinese Community Health Services",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.489275,
+          37.753413
+        ]
+      },
+      "location_address": "1800 31ST AVENUE",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384154",
+      "services": "General Health",
+      "uid": "17"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "56",
+      ":@computed_region_fyvs_ahh9": "35",
+      ":@computed_region_p5aj_wyqh": "8",
+      ":@computed_region_rxqg_mtj9": "3",
+      ":@computed_region_yftq_j783": "1",
+      "facility_name": "Ocean Park Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.482495,
+          37.762381
+        ]
+      },
+      "location_address": "1351 24th Avenue",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "61"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "58",
+      ":@computed_region_fyvs_ahh9": "1",
+      ":@computed_region_p5aj_wyqh": "3",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "3rd Street Youth Center & Clinic",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.392201,
+          37.730862
+        ]
+      },
+      "location_address": "5190 3rd StreetÂ ",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "65"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "Women's Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.406595,
+          37.756174
+        ]
+      },
+      "location_address": "1001 Potrero Ave.",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "71"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_fyvs_ahh9": "21",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "13",
+      "facility_name": "St. Francis Memorial Hospital",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.417066,
+          37.789568
+        ]
+      },
+      "location_address": "900 HYDE STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380960",
+      "services": "Hospital",
+      "uid": "9"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29491",
+      ":@computed_region_fyvs_ahh9": "35",
+      ":@computed_region_p5aj_wyqh": "8",
+      ":@computed_region_rxqg_mtj9": "3",
+      ":@computed_region_yftq_j783": "1",
+      "facility_name": "North East Medical Services-taraval",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.491041,
+          37.742408
+        ]
+      },
+      "location_address": "2308 Taraval Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "77"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "2",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "St. Luke's Health Care Center - Adult Clinic",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420234,
+          37.747567
+        ]
+      },
+      "location_address": "1580 VALENCIA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306381339",
+      "services": "General Health",
+      "uid": "50"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "Instituto Familiar De La Raza - Outpatient",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.418196,
+          37.750344
+        ]
+      },
+      "location_address": "2919 MISSION STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306382737",
+      "services": "Cultural General Health",
+      "uid": "26"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29490",
+      ":@computed_region_fyvs_ahh9": "16",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Kaiser Fnd Hosp - San Francisco",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.443707,
+          37.782683
+        ]
+      },
+      "location_address": "2425 GEARY BOULEVARD",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380857",
+      "services": "Hospital",
+      "uid": "6"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28853",
+      ":@computed_region_fyvs_ahh9": "34",
+      ":@computed_region_p5aj_wyqh": "2",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "14",
+      "facility_name": "South Of Market Health Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.408886,
+          37.777661
+        ]
+      },
+      "location_address": "229 7TH STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384221",
+      "services": "General Health",
+      "uid": "47"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "308",
+      ":@computed_region_fyvs_ahh9": "23",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "3",
+      "facility_name": "On Lok Senior Health Services",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.403856,
+          37.798467
+        ]
+      },
+      "location_address": "1000 MONTGOMERY STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384014",
+      "services": "Senior Health",
+      "uid": "39"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28861",
+      ":@computed_region_fyvs_ahh9": "5",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "6",
+      ":@computed_region_yftq_j783": "9",
+      "facility_name": "Chinese Hospital's Excelsior Health Services",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.439401,
+          37.715826
+        ]
+      },
+      "location_address": "888 PARIS STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384182",
+      "services": "General Health",
+      "uid": "18"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_fyvs_ahh9": "21",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "13",
+      "facility_name": "Larkin Street Medical Clinic",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419122,
+          37.787942
+        ]
+      },
+      "location_address": "1138 Sutter St",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "74"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Adult Immunization & Travel Clinic",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.418696,
+          37.778384
+        ]
+      },
+      "location_address": "101 Grove St",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "67"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "308",
+      ":@computed_region_fyvs_ahh9": "4",
+      ":@computed_region_p5aj_wyqh": "1",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "3",
+      "facility_name": "On Lok Senior Health Services - Powell",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.410373,
+          37.797884
+        ]
+      },
+      "location_address": "1441 POWELL STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306382725",
+      "services": "Senior Health",
+      "uid": "41"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "54",
+      ":@computed_region_fyvs_ahh9": "31",
+      ":@computed_region_p5aj_wyqh": "6",
+      ":@computed_region_rxqg_mtj9": "1",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Institute On Aging",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.448343,
+          37.782468
+        ]
+      },
+      "location_address": "2700 GEARY BLVD.",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384158",
+      "services": "Senior Health",
+      "uid": "25"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28861",
+      ":@computed_region_fyvs_ahh9": "25",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "6",
+      ":@computed_region_yftq_j783": "9",
+      "facility_name": "Balboa Teen Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.439829,
+          37.72207
+        ]
+      },
+      "location_address": "1000 Cayuga Ave",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "72"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "2",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "Mission Neighborhood Health Center - Valencia Clinic",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.42008,
+          37.747
+        ]
+      },
+      "location_address": "1647 VALENCIA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384212",
+      "services": "Cultural General Health",
+      "uid": "31"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28861",
+      ":@computed_region_fyvs_ahh9": "25",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "6",
+      ":@computed_region_yftq_j783": "9",
+      "facility_name": "Mission Neighborhood Health Ctr.-excelsior Clinic",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.433377,
+          37.726682
+        ]
+      },
+      "location_address": "4434 MISSION STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384045",
+      "services": "Cultural General Health",
+      "uid": "32"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "Mission Neighborhood Resource Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.418555,
+          37.764034
+        ]
+      },
+      "location_address": "165 CAPP ST",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384214",
+      "services": "Cultural General Health",
+      "uid": "33"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29492",
+      ":@computed_region_fyvs_ahh9": "9",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Drug Detoxification, Rehab And After Care Svs. Prog.",
+      "facility_type": "Free Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.448703,
+          37.770295
+        ]
+      },
+      "location_address": "529 CLAYTON STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306381276",
+      "services": "Drug Treatment",
+      "uid": "20"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "54",
+      ":@computed_region_fyvs_ahh9": "11",
+      ":@computed_region_p5aj_wyqh": "6",
+      ":@computed_region_rxqg_mtj9": "2",
+      ":@computed_region_yftq_j783": "11",
+      "facility_name": "San Francisco Free Clinic",
+      "facility_type": "Free Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.470091,
+          37.784588
+        ]
+      },
+      "location_address": "4900 CALIFORNIA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384025",
+      "services": "Free General Health",
+      "uid": "46"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29492",
+      ":@computed_region_fyvs_ahh9": "3",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "5",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "California Pacific Med Ctr-davies Campus",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.435818,
+          37.769054
+        ]
+      },
+      "location_address": "CASTRO AND DUBOCE STREETS",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380933",
+      "services": "Hospital",
+      "uid": "2"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "58",
+      ":@computed_region_fyvs_ahh9": "1",
+      ":@computed_region_p5aj_wyqh": "3",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "Southeast Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.392467,
+          37.72591
+        ]
+      },
+      "location_address": "2401 Keith Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "64"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "41",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Planned Parenthood Golden Gate",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.421546,
+          37.782763
+        ]
+      },
+      "location_address": "815 EDDY STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306380924",
+      "services": "Family General Health",
+      "uid": "43"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "59",
+      ":@computed_region_fyvs_ahh9": "38",
+      ":@computed_region_p5aj_wyqh": "5",
+      ":@computed_region_rxqg_mtj9": "4",
+      ":@computed_region_yftq_j783": "1",
+      "facility_name": "Special Programs For Youth",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.452267,
+          37.745717
+        ]
+      },
+      "location_address": "375 Woodside Avenue",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "75"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "Family Health Center At Sfgh",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.406631,
+          37.756903
+        ]
+      },
+      "location_address": "995 Potrero Avenue",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "58"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "2",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "California Pacific Medical Center - St. Luke's Campus",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.421249,
+          37.748043
+        ]
+      },
+      "location_address": "3555 CESAR CHAVEZ STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380964",
+      "services": "Hospital",
+      "uid": "4"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28856",
+      ":@computed_region_fyvs_ahh9": "29",
+      ":@computed_region_p5aj_wyqh": "3",
+      ":@computed_region_rxqg_mtj9": "8",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "Potrero Hill Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.398735,
+          37.754271
+        ]
+      },
+      "location_address": "1050 Wisconsin Street",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "62"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28853",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "Haight Ashbury Integrated Care Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419917,
+          37.769484
+        ]
+      },
+      "location_address": "1735 MISSION ST",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384196",
+      "services": "Free General Health",
+      "uid": "24"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28853",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "2",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "Mission Neighborhood Health Centers-lpc",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419489,
+          37.771258
+        ]
+      },
+      "location_address": "1663 Mission St",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "76"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "19",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "8",
+      "facility_name": "Native American Health Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.418665,
+          37.764117
+        ]
+      },
+      "location_address": "160 CAPP STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306380896",
+      "services": "Cultural General Health",
+      "uid": "34"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "309",
+      ":@computed_region_fyvs_ahh9": "28",
+      ":@computed_region_p5aj_wyqh": "3",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "North East Medical Services - San Bruno Avenue",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.40426,
+          37.729088
+        ]
+      },
+      "location_address": "2574 SAN BRUNO AVE",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384207",
+      "services": "Cultural General Health",
+      "uid": "37"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_fyvs_ahh9": "41",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "13",
+      "facility_name": "Merriouns Psychological Institute",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.422044,
+          37.785182
+        ]
+      },
+      "location_address": "242 MYRTLE STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306382736",
+      "services": "Mental Health",
+      "uid": "29"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29490",
+      ":@computed_region_fyvs_ahh9": "27",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "13",
+      "facility_name": "Woman's Community Clinic/tides Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.433383,
+          37.786524
+        ]
+      },
+      "location_address": "1833 FILLMORE STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384220",
+      "services": "Womens Health",
+      "uid": "54"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28861",
+      ":@computed_region_fyvs_ahh9": "25",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "6",
+      ":@computed_region_yftq_j783": "9",
+      "facility_name": "On Lok Senior Health Services-mission Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.433294,
+          37.72674
+        ]
+      },
+      "location_address": "4430 MISSION STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384163",
+      "services": "Senior Health",
+      "uid": "42"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "7",
+      "facility_name": "Asian & Pacific Islander Wellness Center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.41919,
+          37.783587
+        ]
+      },
+      "location_address": "730 POLK STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384211",
+      "services": "Cultural General Health",
+      "uid": "53"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "309",
+      ":@computed_region_fyvs_ahh9": "28",
+      ":@computed_region_p5aj_wyqh": "3",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "10",
+      "facility_name": "Silver Avenue Family Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.406517,
+          37.732227
+        ]
+      },
+      "location_address": "1525 Silver Avenue",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "63"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "29490",
+      ":@computed_region_fyvs_ahh9": "13",
+      ":@computed_region_p5aj_wyqh": "6",
+      ":@computed_region_rxqg_mtj9": "11",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Ucsf Medical Center At Mount Zion",
+      "facility_type": "General Acute Care Hospital",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.439726,
+          37.784777
+        ]
+      },
+      "location_address": "1600 DIVISADERO STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "106380895",
+      "services": "Hospital",
+      "uid": "12"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28859",
+      ":@computed_region_fyvs_ahh9": "2",
+      ":@computed_region_p5aj_wyqh": "7",
+      ":@computed_region_rxqg_mtj9": "7",
+      ":@computed_region_yftq_j783": "2",
+      "facility_name": "St. Luke's Health Care Center - Pediatric Clinic",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.420234,
+          37.747567
+        ]
+      },
+      "location_address": "1580 VALENCIA ST",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384208",
+      "services": "Youth Health",
+      "uid": "51"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28858",
+      ":@computed_region_fyvs_ahh9": "21",
+      ":@computed_region_p5aj_wyqh": "9",
+      ":@computed_region_rxqg_mtj9": "10",
+      ":@computed_region_yftq_j783": "13",
+      "facility_name": "On Lok Senior Health Services - Bush St",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.419046,
+          37.788823
+        ]
+      },
+      "location_address": "1333 BUSH STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306382724",
+      "services": "Senior Health",
+      "uid": "40"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28852",
+      ":@computed_region_fyvs_ahh9": "36",
+      ":@computed_region_p5aj_wyqh": "10",
+      ":@computed_region_rxqg_mtj9": "9",
+      ":@computed_region_yftq_j783": "14",
+      "facility_name": "Glide Health Services",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.41165,
+          37.785095
+        ]
+      },
+      "location_address": "330 ELLIS STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306384165",
+      "services": "General Health",
+      "uid": "22"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "55",
+      ":@computed_region_fyvs_ahh9": "26",
+      ":@computed_region_p5aj_wyqh": "6",
+      ":@computed_region_rxqg_mtj9": "2",
+      ":@computed_region_yftq_j783": "11",
+      "facility_name": "Richmond Maxi-center",
+      "facility_type": "Community Clinic",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.497614,
+          37.775757
+        ]
+      },
+      "location_address": "3626 BALBOA STREET",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "306381330",
+      "services": "Cultural General Health",
+      "uid": "45"
+    },
+    {
+      ":@computed_region_bh8s_q3mv": "28862",
+      ":@computed_region_fyvs_ahh9": "3",
+      ":@computed_region_p5aj_wyqh": "4",
+      ":@computed_region_rxqg_mtj9": "5",
+      ":@computed_region_yftq_j783": "15",
+      "facility_name": "Castro-mission Health Center",
+      "facility_type": "Community Health Network",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.431841,
+          37.762718
+        ]
+      },
+      "location_address": "3850 17th StreetÂ ",
+      "location_city": "San Francisco",
+      "location_state": "CA",
+      "oshpd_id": "0",
+      "services": " ",
+      "uid": "55"
+    }
+  ]
+}
